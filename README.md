@@ -2,6 +2,13 @@
 
 This guide provides step-by-step instructions on how to set up a browser source as a background for your webcam feed in OBS or Streamlabs OBS.  **`OPEN SOURCE`**
 
+-----
+## Check Releases for Updates 
+
+[**Releases**](https://github.com/KernFerm/obs-browser-source-overlays/releases)
+
+-----
+
 ## Prerequisites
 - OBS Studio or Streamlabs OBS installed on your computer.
 - A webcam connected and configured.
@@ -80,6 +87,3 @@ If the Example effect is not visible behind your webcam feed, you may need to ad
 By following these steps, you should be able to create a dynamic and unique **Example-themed** background for your webcam feed in OBS or Streamlabs OBS. Enjoy streaming with your new setup! 🙂
 
 
-## Check Releases for Updates 
-
-[**Releases**](https://github.com/KernFerm/obs-browser-source-overlays/releases)]
