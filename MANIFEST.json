@@ -1,0 +1,16 @@
+{
+  "name": "OBS Browser Source Overlays",
+  "description": "Dynamic browser source overlays for OBS Studio and Streamlabs OBS.",
+  "version": "1.0.0",
+  "author": "KernFerm (Bubbles The Dev)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KernFerm/obs-browser-source-overlays.git"
+  },
+  "keywords": ["OBS", "Streamlabs OBS", "browser source", "overlays"],
+  "license": "MIT",
+  "homepage": "https://github.com/KernFerm/obs-browser-source-overlays",
+  "bugs": {
+    "url": "https://github.com/KernFerm/obs-browser-source-overlays/issues"
+  }
+}
