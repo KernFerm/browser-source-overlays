@@ -31,7 +31,9 @@ We follow the coding style guide defined by the OBS project. Here are some key p
 - Use meaningful names that describe the purpose of the code.
 - Write clear and concise comments to explain complex logic or functionality.
 - Keep lines of code to a reasonable length (usually 50-120 characters).
-- HAS TO BE IN `.HTML FORMAT`
+- HAS TO BE IN `.HTML , CSS , FORMAT`
+- See one of the .html code as example.
+
 ## What Needs to Be Done
 We welcome contributions in the following areas:
 
