@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Beach with Campfire Overlay</title>
+<style>
+  body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: #87CEEB; /* Sky blue background as a fallback */
+  }
+
+  .gif-container {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+
+  .gif-container img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transform: translate(-50%, -50%);
+  }
+</style>
+</head>
+<body>
+  <div class="gif-container">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWljYjY2dDQ1emlpcjNocXB5aHJzZ2F2ZzI5eHM3YTk4Z2Jva3ZpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PT3q2Tm1n4VJ6/giphy.webp" alt="Beach with Campfire">
+  </div>
+</body>
+</html>
