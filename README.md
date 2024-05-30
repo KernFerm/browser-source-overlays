@@ -78,3 +78,8 @@ If the Example effect is not visible behind your webcam feed, you may need to ad
 - **Performance Issues**: Ensure your system can handle the additional processing load of the overlay.
 
 By following these steps, you should be able to create a dynamic and unique **Example-themed** background for your webcam feed in OBS or Streamlabs OBS. Enjoy streaming with your new setup! 🙂
+
+
+## Check Releases for Updates 
+
+[**Releases**](https://github.com/KernFerm/obs-browser-source-overlays/releases)]
