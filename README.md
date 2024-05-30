@@ -7,6 +7,11 @@ This guide provides step-by-step instructions on how to set up a browser source 
 
 [**Releases**](https://github.com/KernFerm/obs-browser-source-overlays/releases)
 
+
+## how to download the repo first time users
+
+  - click link to read [**Instructions**](https://www.fnbubbles420.org/Instructions-On-How-To-Download-Repo)
+
 -----
 
 ## Prerequisites
