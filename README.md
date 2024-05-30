@@ -1,6 +1,6 @@
 # Browser Source Overlay for OBS/Streamlabs OBS 🎥
 
-This guide provides step-by-step instructions on how to set up a browser source as a background for your webcam feed in OBS or Streamlabs OBS.  **OPEN SOURCE**
+This guide provides step-by-step instructions on how to set up a browser source as a background for your webcam feed in OBS or Streamlabs OBS.  **`OPEN SOURCE`**
 
 ## Prerequisites
 - OBS Studio or Streamlabs OBS installed on your computer.
