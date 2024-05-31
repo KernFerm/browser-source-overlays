@@ -17,7 +17,7 @@ This guide provides step-by-step instructions on how to set up a browser source 
 ## Prerequisites
 - OBS Studio or Streamlabs OBS installed on your computer.
 - A webcam connected and configured.
--`IF YOU DONT HAVE A CAMERA THAT IS FINE YOU CAN USE IT AS A BACKGROUND , make sure to read n continue steps as if you didn't have a camera.
+-**`IF YOU DONT HAVE A CAMERA THAT IS FINE YOU CAN USE IT AS A BACKGROUND , make sure to read n continue steps as if you didn't have a camera.`**
 - The `example.html` file (containing the Example code).
 > Note: There is no `example.html` provided. This is just to illustrate the setup process.
 
