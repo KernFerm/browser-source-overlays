@@ -21,7 +21,7 @@ const ctx = canvas.getContext('2d');
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 
-const matrixChars = 'AB$%^&*CDE@#$%^&*()*FG$%^&*HI$%^&*JK$%^&*LMN@#$%^&*()*OPQ$%^&*RS$%^&*TUVW@#$%^&*()*XY$%^&*Z12$%^&*3456$%^&*789@#$%^&*()*&^%'; # you can put whatever you like n between the quotes remember to save  
+const matrixChars = 'AB$%^&*CDE@#$%^&*()*FG$%^&*HI$%^&*JK$%^&*LMN@#$%^&*()*OPQ$%^&*RS$%^&*TUVW@#$%^&*()*XY$%^&*Z12$%^&*3456$%^&*789@#$%^&*()*&^%'; // <--- add what you want in between the ' '  in the code 
 const fontSize = 16;
 const columns = Math.floor(canvas.width / fontSize);
 const drops = Array.from({ length: columns }).map(() => canvas.height);
