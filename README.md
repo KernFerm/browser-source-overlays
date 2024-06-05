@@ -6,6 +6,7 @@ This guide provides step-by-step instructions on how to set up a browser source 
 ## Check Releases for Updates 
 
 [**Releases**](https://github.com/KernFerm/obs-browser-source-overlays/releases)
+[**Pre-Release**](https://github.com/KernFerm/browser-source-overlays/releases/tag/notepad)
 
 
 ## how to download the repo first time users
