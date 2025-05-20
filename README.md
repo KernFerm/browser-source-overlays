@@ -8,6 +8,10 @@ If you find this project useful, please give it a star! Your support is apprecia
 This guide provides step-by-step instructions on how to set up a browser source as a background for your webcam feed in OBS or Streamlabs OBS.  **`OPEN SOURCE`**
 
 -----
+
+- [https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
+
+
 ## Check for Updates Below:
 
 [**Releases**](https://github.com/KernFerm/obs-browser-source-overlays/releases)
